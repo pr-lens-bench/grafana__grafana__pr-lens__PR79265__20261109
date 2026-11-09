@@ -80,7 +80,7 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/russellhaering/goxmldsig v1.1.0
 	github.com/smartystreets/goconvey v1.6.4
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.12.1
 	github.com/teris-io/shortid v0.0.0-20171029131806-771a37caa5cf
 	github.com/timberio/go-datemath v0.1.1-0.20200323150745-74ddef604fff
 	github.com/ua-parser/uap-go v0.0.0-20190826212731-daf92ba38329
@@ -199,7 +199,6 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/opentracing-contrib/go-grpc v0.0.0-20210225150812-73cb765af46e // indirect
 	github.com/opentracing-contrib/go-stdlib v1.0.0 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/node_exporter v1.0.0-rc.0.0.20200428091818-01054558c289 // indirect
 	github.com/prometheus/procfs v0.6.0 // indirect
 	github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be // indirect
@@ -213,7 +212,7 @@ require (
 	github.com/shurcooL/vfsgen v0.0.0-20200824052919-0d455de96546 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/smartystreets/assertions v1.0.1 // indirect
-	github.com/stretchr/objx v0.2.0 // indirect
+	github.com/stretchr/objx v0.5.3 // indirect
 	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
 	github.com/weaveworks/promrus v1.2.0 // indirect
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
@@ -221,6 +220,7 @@ require (
 	go.opencensus.io v0.23.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/goleak v1.1.10 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
 	golang.org/x/mod v0.4.2 // indirect
 	golang.org/x/sys v0.0.0-20210806184541-e5e7981a1069 // indirect
